@@ -10,3 +10,9 @@ h1 {
   border-radius: 8px;
   text-align: center;
 }
+.form{
+  height: 100%;
+  width: 50%;
+  background-color: green;
+  color:whitesmoke;
+}
